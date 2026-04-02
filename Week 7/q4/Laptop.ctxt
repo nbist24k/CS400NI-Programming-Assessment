@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Laptop
+comment1.params=brand\ ramSize\ price
+comment1.target=Laptop(java.lang.String,\ int,\ int)
+numComments=2
