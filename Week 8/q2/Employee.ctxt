@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Employee
+comment1.params=salary
+comment1.target=Employee(double)
+comment2.params=
+comment2.target=double\ calculateGrossSalary()
+numComments=3
