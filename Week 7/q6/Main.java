@@ -1,5 +1,5 @@
 public class Main{
-    public static void Main(String[] args){
+    public static void main(String[] args){
         Result r1 = new Result(65.75,78.55,85.95);
         Result r2 = new Result(89.91,91.25,95.5);
         

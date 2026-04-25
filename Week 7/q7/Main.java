@@ -1,5 +1,5 @@
 public class Main{
-    public static void Main(String[] args){
+    public static void main(String[] args){
         BankAccount b1 = new BankAccount(1,"John Doe", 2000);
         
         BankAccount b2 = new BankAccount(2,"Jane Doe", 3000);
