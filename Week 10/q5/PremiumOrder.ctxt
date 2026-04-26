@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PremiumOrder
+comment1.params=id\ name\ amount
+comment1.target=PremiumOrder(int,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ calculateFinalAmount()
+comment3.params=discountAmount
+comment3.target=double\ calculateFinalAmount(double)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
